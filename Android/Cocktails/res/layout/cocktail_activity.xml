@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/background"
+    android:screenOrientation="portrait"
+    tools:context="com.daniel.cocktails.MainActivity" >
+
+    <TextView
+        android:id="@+id/cocktail_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cocktail_image"
+        android:layout_centerHorizontal="true"
+        android:text="@string/cocktail_name"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <NumberPicker
+        android:id="@+id/initial_picker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/cocktail_image"
+        android:layout_below="@+id/cocktail_name"
+        android:layout_marginLeft="29dp"
+        android:layout_marginTop="16dp" />
+
+    <ImageView
+        android:id="@+id/cocktail_image"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:maxWidth="@dimen/cocktail_name"
+        android:src="@drawable/image_7" />
+
+    <NumberPicker
+        android:id="@+id/month_picker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/cocktail_image"
+        android:layout_alignTop="@+id/initial_picker"
+        android:layout_marginRight="26dp" />
+
+</RelativeLayout>

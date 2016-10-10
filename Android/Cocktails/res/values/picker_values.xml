@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="alphabet">
+        <item>- A -</item>
+        <item>- B -</item>
+        <item>- C -</item>
+        <item>- D -</item>
+        <item>- E -</item>
+        <item>- F -</item>
+        <item>- G -</item>
+        <item>- H -</item>
+        <item>- I -</item>
+        <item>- J -</item>
+        <item>- K -</item>
+        <item>- L -</item>
+        <item>- M -</item>
+        <item>- N -</item>
+        <item>- O -</item>
+        <item>- P -</item>
+        <item>- Q -</item>
+        <item>- R -</item>
+        <item>- S -</item>
+        <item>- T -</item>
+        <item>- U -</item>
+        <item>- V -</item>
+        <item>- W -</item>
+        <item>- X -</item>
+        <item>- Y -</item>
+        <item>- Z -</item>
+    </string-array>
+    <string-array name="name_letter">
+        <item>Randy</item>
+        <item>Sweet</item>
+        <item>Hot</item>
+        <item>Sexy</item>
+        <item>Smokin</item>
+        <item>Slippery</item>
+        <item>Gorgeous</item>
+        <item>Handsome</item>
+        <item>Leggy</item>
+        <item>Blonde</item>
+        <item>Spicy</item>
+        <item>High</item>
+        <item>Running</item>
+        <item>Sucking</item>
+        <item>Jelly</item>
+        <item>Frigid</item>
+        <item>Juicy</item>
+        <item>Kissing</item>
+        <item>Sunset</item>
+        <item>Blazing</item>
+        <item>Lovely</item>
+        <item>Spotted</item>
+        <item>Brass</item>
+        <item>Dirty</item>
+        <item>Zombie</item>
+        <item>Moscow</item>
+    </string-array>
+    <string-array name="name_month">
+        <item>Frolic</item>
+        <item>Dingo</item>
+        <item>Wolf</item>
+        <item>Satan</item>
+        <item>Tiger</item>
+        <item>Puma</item>
+        <item>Lion</item>
+        <item>Jaguar</item>
+        <item>Beast</item>
+        <item>Cheetah</item>
+        <item>Leopard</item>
+        <item>Panther</item>
+    </string-array>
+    <string-array name="letter_recipe">
+        <item>-Start with 1 shot of vodka!</item>
+        <item>-Start with 2 shots of vodka!</item>
+        <item>-Start with 3 shots of vodka!</item>
+        <item>-Start with 1 shot of tequila!</item>
+        <item>-Start with 2 shots of tequila!</item>
+        <item>-Start with 3 shots of tequila!</item>
+        <item>-Start with 4 shots of tequila!</item>
+        <item>-Start with 1 shot of Spiced Rum!</item>
+        <item>-Start with 2 shots of Spiced Rum!</item>
+        <item>-Start with 3 shots of Spiced Rum!</item>
+        <item>-Start with 1 shot of Bicardi!</item>
+        <item>-Start with 2 shots of Bicardi!</item>
+        <item>-Start with 3 shots of Bicardi!</item>
+        <item>-Start with 4 shots of Bicardi!</item>
+        <item>-Start with 1 shot of Gin!</item>
+        <item>-Start with 2 shots of Gin!</item>
+        <item>-Start with 3 shots of Gin!</item>
+        <item>-Start with 1 shot of Absynth!</item>
+        <item>-Start with 2 shot of Absynth!</item>
+        <item>-Start with 3 shot of Absynth!</item>
+        <item>-Start with 4 shot of Absynth!</item>
+        <item>-Start with 1 shot of Peach Schnaps!</item>
+        <item>-Start with 2 shots of Peach Schnaps!</item>
+        <item>-Start with 3 shots of Peach Schnaps!</item>
+        <item>-Start with 1 shot of Apple Schnaps!</item>
+        <item>-Start with 2 shots of Apple Schnaps!</item>
+    </string-array>
+    <string-array name="month_recipe">
+        <item>-Add 2 cups of Orange Juice</item>
+        <item>-Add 2 cups of Tonic and a lime</item>
+        <item>-Add 2 cups of Tonic, a lime, and a cucumber</item>
+        <item>-Add 2 cups of Grape Soda</item>
+        <item>-Add 2 cups of Lemonade</item>
+        <item>-Add 1 cup of Cordial and 1 cup of Soda Water</item>
+        <item>-Add 1 cup of Lemonade and 1 cup of Orange Juice</item>
+        <item>-Add 1 cup lemon/lime juice and 1 cup lemonade</item>
+        <item>-Add 2 cups of CocaCola</item>
+        <item>-Add 1 cup of Lemonade and 1 cup of Apple Juice </item>
+        <item>-Add 2 cups of Orannge Lemonade</item>
+        <item>-Add 2 cups of Ginger Beer</item>
+    </string-array>
+
+</resources>
