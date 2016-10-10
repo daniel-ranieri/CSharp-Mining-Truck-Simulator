@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AT2 Mining Simulator</name>
+    </assembly>
+    <members>
+        <member name="F:AT2_Mining_Simulator.Form1.max">
+            <summary>
+            Initializing components
+            </summary>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.Form1_Load(System.Object,System.EventArgs)">
+            <summary>
+            what will happen when the form loads
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.Form1_FormClosed(System.Object,System.Windows.Forms.FormClosedEventArgs)">
+            <summary>
+            Calls the binary save method on close
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.clearAll">
+            <summary>
+            Method to wipe all lists clean
+            </summary>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.newToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Method to load a new instance (New button)
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.userGuideToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Method to open the user guide (User Guide Button)
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.closeToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Close button method
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.createTrucks">
+            <summary>
+            creates the number of trucks
+            </summary>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.createQueues">
+            <summary>
+            creates queues to cover each list box
+            </summary>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.displayTrucks">
+            <summary>
+            Display the trucks in the main list box with current get and set values
+            </summary>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.listBoxTrucks_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            Get the information from the listbox and load it into the text boxes
+            Also making the radio buttons correspond to the truck locations
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.listBoxTrucks_DoubleClick(System.Object,System.EventArgs)">
+            <summary>
+            The method for the double click on the main trucks list
+            moves the truck to the transit to loading queue and listbox
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.listBoxTLoading_Click(System.Object,System.EventArgs)">
+            <summary>
+            The method for the click on the transit to loading box 
+            trucks list moves the truck to the loading queue and listbox
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.listBoxLoading_Click(System.Object,System.EventArgs)">
+            <summary>
+            The method for the click on the loading box 
+            trucks list moves the truck to the loading queue and listbox
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.listBoxTCrusher_Click(System.Object,System.EventArgs)">
+            <summary>
+            The method for the click on the transit to crusher box 
+            trucks list moves the truck to the transit to crusher queue and listbox
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.listBoxCrusher_Click(System.Object,System.EventArgs)">
+            <summary>
+            The method for the click on the crusher box 
+            trucks list moves the truck to the transit to loading queue and listbox
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.listBoxService_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            the button for when the item in the service box is clicked. This will 
+            cause the selected item to be deleted from the box on double click
+            and change the trucks status back to 0
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.btnReturn_Click(System.Object,System.EventArgs)">
+            <summary>
+            This will return a truck to the main box only when the button is clicked
+            while the truck is in the transit to loading queue at the top.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.btnService_Click(System.Object,System.EventArgs)">
+            <summary>
+            The button for when the service button is clicked. This will make the truck
+            get added to the service box and change the status to 5
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.BinaryWrite">
+            <summary>
+            Binary Writer method to write the file to a binary format
+            </summary>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.BinaryRead">
+            <summary>
+            A method to read the file from a binary format
+            </summary>
+        </member>
+        <member name="F:AT2_Mining_Simulator.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Trucks.truckSwitch">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AT2_Mining_Simulator.Trucks.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            get set method for each of the truck parameters.
+            </summary>
+            <param name="gsTruckID"></param>
+            <param name="gsTruckStatus"></param>
+            <param name="gsTruckLoadCapacity"></param>
+            <param name="gsTruckTotal"></param>
+        </member>
+        <member name="T:AT2_Mining_Simulator.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:AT2_Mining_Simulator.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:AT2_Mining_Simulator.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

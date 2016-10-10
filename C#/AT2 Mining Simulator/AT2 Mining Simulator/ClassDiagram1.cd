@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AT2_Mining_Simulator.Form1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="br" Hidden="true" />
+      <Field Name="bw" Hidden="true" />
+      <Field Name="closeToolStripMenuItem" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="CrusherBox" Hidden="true" />
+      <Field Name="fileToolStripMenuItem" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="LoadingBox" Hidden="true" />
+      <Field Name="MainBox" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="newToolStripMenuItem" Hidden="true" />
+      <Field Name="radioCrusher" Hidden="true" />
+      <Field Name="radioInactive" Hidden="true" />
+      <Field Name="radioLoading" Hidden="true" />
+      <Field Name="radioService" Hidden="true" />
+      <Field Name="radioTCrusher" Hidden="true" />
+      <Field Name="radioTLoading" Hidden="true" />
+      <Field Name="returnButton" Hidden="true" />
+      <Field Name="ServiceButton" Hidden="true" />
+      <Field Name="TCrusherBox" Hidden="true" />
+      <Field Name="TextBoxes" Hidden="true" />
+      <Field Name="TLoadingBox" Hidden="true" />
+      <Field Name="txtLoadCap" Hidden="true" />
+      <Field Name="txtTotal" Hidden="true" />
+      <Field Name="txtTruck" Hidden="true" />
+      <Field Name="userGuideToolStripMenuItem" Hidden="true" />
+      <Field Name="viewToolStripMenuItem" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>TQIEMAAAEWAAg5IAEEChwEHDIgRXABBQQqQERCUAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT2_Mining_Simulator.Program" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT2_Mining_Simulator.Trucks">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAACAAAAAACAAAAAAAAAIAAoAABAAAAgAAAAA=</HashCode>
+      <FileName>Trucks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT2_Mining_Simulator.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT2_Mining_Simulator.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,56 @@
+E:\Diploma Programming\C#\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.exe.config
+E:\Diploma Programming\C#\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.exe
+E:\Diploma Programming\C#\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.pdb
+E:\Diploma Programming\C#\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2_Mining_Simulator.Form1.resources
+E:\Diploma Programming\C#\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2_Mining_Simulator.Properties.Resources.resources
+E:\Diploma Programming\C#\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.csproj.GenerateResource.Cache
+E:\Diploma Programming\C#\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.exe
+E:\Diploma Programming\C#\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.pdb
+E:\Diploma Programming\C#\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.csprojResolveAssemblyReference.cache
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.exe.config
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.exe
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.pdb
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.exe
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.pdb
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\mscorlib.dll
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\System.Net.Http.dll
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\System.Net.Http.xml
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\normidna.nlp
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\normnfc.nlp
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\normnfd.nlp
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\normnfkc.nlp
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\normnfkd.nlp
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2_Mining_Simulator.Form1.resources
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2_Mining_Simulator.Properties.Resources.resources
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.csproj.GenerateResource.Cache
+D:\Diploma Programming\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.exe.config
+D:\Diploma Programming\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.exe
+D:\Diploma Programming\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.pdb
+D:\Diploma Programming\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.exe
+D:\Diploma Programming\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.pdb
+D:\Diploma Programming\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2_Mining_Simulator.Form1.resources
+D:\Diploma Programming\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2_Mining_Simulator.Properties.Resources.resources
+D:\Diploma Programming\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.csproj.GenerateResource.Cache
+C:\Users\131600214\Documents\Programming Diploma 2016\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.csprojResolveAssemblyReference.cache
+D:\Diploma Programming\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.XML
+D:\Diploma Programming\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.csprojResolveAssemblyReference.cache
+F:\Diploma Programming\Semester 1\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.exe.config
+F:\Diploma Programming\Semester 1\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.XML
+F:\Diploma Programming\Semester 1\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.exe
+F:\Diploma Programming\Semester 1\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.pdb
+F:\Diploma Programming\Semester 1\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.exe
+F:\Diploma Programming\Semester 1\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.pdb
+F:\Diploma Programming\Semester 1\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.csprojResolveAssemblyReference.cache
+F:\Diploma Programming\Semester 1\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2_Mining_Simulator.Form1.resources
+F:\Diploma Programming\Semester 1\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2_Mining_Simulator.Properties.Resources.resources
+F:\Diploma Programming\Semester 1\C#\AT 2 Assignment\Project\AP\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.csproj.GenerateResource.Cache
+E:\Job Stuff\Code Examples\C#\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.exe.config
+E:\Job Stuff\Code Examples\C#\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.XML
+E:\Job Stuff\Code Examples\C#\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.exe
+E:\Job Stuff\Code Examples\C#\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.pdb
+E:\Job Stuff\Code Examples\C#\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.exe
+E:\Job Stuff\Code Examples\C#\AT2 Mining Simulator\AT2 Mining Simulator\bin\Debug\AT2 Mining Simulator.pdb
+E:\Job Stuff\Code Examples\C#\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.csprojResolveAssemblyReference.cache
+E:\Job Stuff\Code Examples\C#\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2_Mining_Simulator.Form1.resources
+E:\Job Stuff\Code Examples\C#\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2_Mining_Simulator.Properties.Resources.resources
+E:\Job Stuff\Code Examples\C#\AT2 Mining Simulator\AT2 Mining Simulator\obj\Debug\AT2 Mining Simulator.csproj.GenerateResource.Cache
