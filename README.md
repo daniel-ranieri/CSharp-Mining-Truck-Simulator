@@ -1,2 +1,2 @@
 # CapricornJobApplication
-A Repository that includes; Examples of C#, Java and SQL, and Android projects that i have written. Along with my Cover Letter and Resume.
+A Repository that includes; an example of a C# project i have produced.
